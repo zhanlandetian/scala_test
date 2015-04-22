@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javaxt-core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javaxt-core_v1.7.2/bin/javaxt-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/javaxt-core_v1.7.2/bin/javaxt-core.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
